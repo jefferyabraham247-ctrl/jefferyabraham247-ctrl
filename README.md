@@ -17,7 +17,7 @@
 
 **Full Stack Developer @ MMIP**
 
-[![Instagram](https://img.shields.io/badge/Instagram-jefferyabraham247--ctrl-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jefferyabraham247-ctrl)
+[![Instagram](https://img.shields.io/badge/Instagram-spidy__jeffy__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/spidy_jeffy_/)
 
 <br>
 
