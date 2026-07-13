@@ -17,9 +17,7 @@
 
 **Full Stack Developer @ MMIP**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yoursite.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://YOURSITE.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOURHANDLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURHANDLE)
-[![Instagram](https://img.shields.io/badge/Instagram-YOURHANDLE-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOURHANDLE)
+[![Instagram](https://img.shields.io/badge/Instagram-jefferyabraham247--ctrl-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jefferyabraham247-ctrl)
 
 <br>
 
